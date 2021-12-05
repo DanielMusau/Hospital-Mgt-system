@@ -18,8 +18,8 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 ### How to start
 
-## Download XAMPP.
-## Download Composer.
+# Download XAMPP.
+# Download Composer.
 
 Go to File directory of the project and run:
 ```
@@ -32,7 +32,3 @@ In the project terminal run (if all dependencies are installed):
 ```
 php artisan serve
 ```
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
